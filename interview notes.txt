@@ -1,0 +1,2 @@
+* none of the shorts are optimised (bubble,selection,insertion) with complexity n^2
+* to reverse the order of sorting just change the sigh(<>) in if statement
